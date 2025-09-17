@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#book{
+
+	color:blue;
+}
+
+h1{
+	text-align:center
+}
+input{
+	width:100%;
+}
+#submit{
+	background-color:blue;
+	color:white;
+}
